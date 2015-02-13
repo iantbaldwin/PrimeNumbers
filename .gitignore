@@ -1,0 +1,9 @@
+# Eclipse files
+bin/**
+local.properties
+.classpath
+.settings/
+.loadpath
+.project
+.metadata
+.DS_Store
